@@ -2,7 +2,7 @@
 
 ## I'm a Wife, Pug-Mom, and Developer!
 - 💻 I’m currently working on a [portfolio site][website]!
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT 😀
+- 🌱 I’m currently learning React 😀
 - 👯 I’m looking for mentorship and collaboration with other developers!
 - 🪐 2020 Goals: Finish website, refine-github, finish FCC certificate 🏆
 - ⚡ Fun fact: Since COVID-19, I miss live bluegrass music the most 🪕
