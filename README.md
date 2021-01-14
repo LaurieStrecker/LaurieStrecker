@@ -1,6 +1,6 @@
 ### Hi there, I'm Laurie - [My Website][website] 👋🏼
 
-## I'm a Wife, Pug-Mom, and Developer!
+## I'm a Wife, Mom, and Developer!
 - 💻 I’m currently working on a [portfolio site][website]!
 - 🌱 I’m currently learning React 😀
 - 👯 I’m looking for mentorship and collaboration with other developers!
